@@ -1,2 +1,2 @@
-<H1> GIthub Quiz.
+<H1> Github Quiz.
 <H2> Communicate using markdown.
