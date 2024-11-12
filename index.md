@@ -1,2 +1,2 @@
-<H1> The biggest header.
-<H2> The second biggest header.
+<H1> GIthub Quiz.
+<H2> Communicate using markdown.
